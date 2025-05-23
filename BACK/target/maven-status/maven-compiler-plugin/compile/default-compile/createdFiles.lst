@@ -1,0 +1,7 @@
+Server\BackgammonServer.class
+Client\BackgammonClient$BoardPanel.class
+Server\BackgammonServer$MatchHandler.class
+Client\BackgammonClient$BoardMouseListener.class
+COMMON\GameState.class
+Client\BackgammonClient.class
+Server\GameState.class
